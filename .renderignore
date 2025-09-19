@@ -1,0 +1,19 @@
+# Arquivos e diretórios a serem ignorados no deploy do Render
+.git
+.gitignore
+README.md
+*.md
+.env
+.env.local
+.env.example
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+*.log
+logs/
+temp/
+tmp/
+cache/
