@@ -64,7 +64,7 @@ class PixIntegration {
             'João Silva', 'Maria Santos', 'Pedro Oliveira', 'Ana Costa', 'Carlos Ferreira',
             'Lucia Almeida', 'Roberto Lima', 'Fernanda Rocha', 'Marcos Souza', 'Juliana Pereira',
             'Rafael Barbosa', 'Camila Dias', 'Diego Martins', 'Patricia Nunes', 'Thiago Ribeiro',
-            'Amanda Santinni', 'Bruno Carvalho', 'Larissa Gomes', 'Felipe Araújo', 'Gabriela Lopes'
+            'Gabriela Alencar', 'Bruno Carvalho', 'Larissa Gomes', 'Felipe Araújo', 'Gabriela Lopes'
         ];
 
         // Lista de sobrenomes adicionais

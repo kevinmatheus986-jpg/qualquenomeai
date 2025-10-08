@@ -6,7 +6,7 @@ services:
       - key: PHP_VERSION
         value: 8.1
       - key: WEBHOOK_URL
-        value: https://amandasantinni.onrender.com/webhook-example.php
+        value: https://gabrielalencar.onrender.com/webhook-example.php
       - key: ENVIRONMENT
         value: production
       - key: OASYFY_PUBLIC_KEY
@@ -14,7 +14,7 @@ services:
       - key: OASYFY_SECRET_KEY
         value: h7gchnycerdys7ty517bspdh2o0inye1cbf97erk8i9421m101zekt389tn83fak
       - key: TELEGRAM_REDIRECT
-        value: https://t.me/amandinhaVIP11_bot
+        value: https://t.me/gabrielalencarVIP11_bot
       - key: WHATS_REDIRECT
         value: https://www.contate.me/5511943730383
     healthCheckPath: /privacy.html
